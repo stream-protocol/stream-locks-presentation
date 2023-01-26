@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://">
-    <img alt="StreamLocks" src="https://i.imgur.com/jyd9NTL.png" width="100" />
+    <img alt="StreamLocks" src="https://i.imgur.com/jyd9NTL.png" width="1000" />
   </a>
 </p>
 <h1 align="center">
