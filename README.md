@@ -35,7 +35,13 @@ ScriptProxy Bridge
 TokenScript Engine
 Lockentry.xlm
 
-Notice! Need more details. 
+Notice! Need more details.
+
+#### How To join a Stream Team?
+
+Just send message the Stream Protocol team leader or a member of the team to inquire about joining.
+
+contact@streamprotocol.org
 
 
 #### Website (under construction)
